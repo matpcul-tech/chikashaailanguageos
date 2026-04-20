@@ -635,4 +635,3 @@ export default function ChikashaLanguageOS() {
     </div>
   );
 }
-export default ChikashaLanguageOS;
